@@ -1,0 +1,54 @@
+{
+  "alunos": [
+    {
+      "Matricula": "001",
+      "Nome": "João",
+      "Idade": 20
+    },
+    {
+      "Matricula": "002",
+      "Nome": "Maria",
+      "Idade": 22
+    },
+    {
+      "Matricula": "003",
+      "Nome": "Pedro",
+      "Idade": 19
+    },
+    {
+      "Matricula": "004",
+      "Nome": "Ana",
+      "Idade": 21
+    },
+    {
+      "Matricula": "005",
+      "Nome": "Carlos",
+      "Idade": 23
+    },
+    {
+      "Matricula": "006",
+      "Nome": "Mariana",
+      "Idade": 20
+    },
+    {
+      "Matricula": "007",
+      "Nome": "Rafael",
+      "Idade": 22
+    },
+    {
+      "Matricula": "008",
+      "Nome": "Sofia",
+      "Idade": 19
+    },
+    {
+      "Matricula": "009",
+      "Nome": "Lucas",
+      "Idade": 21
+    },
+    {
+      "Matricula": "010",
+      "Nome": "Julia",
+      "Idade": 22
+    }
+  ]
+}
