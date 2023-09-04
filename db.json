@@ -1,54 +1,64 @@
 {
   "alunos": [
     {
-      "Matricula": "001",
-      "Nome": "João",
-      "Idade": 20
+      "matricula": "12345",
+      "id": 1,
+      "nome": "João",
+      "idade": 20
     },
     {
-      "Matricula": "002",
-      "Nome": "Maria",
-      "Idade": 22
+      "matricula": "54321",
+      "id": 2,
+      "nome": "Maria",
+      "idade": 22
     },
     {
-      "Matricula": "003",
-      "Nome": "Pedro",
-      "Idade": 19
+      "matricula": "98765",
+      "id": 3,
+      "nome": "Pedro",
+      "idade": 19
     },
     {
-      "Matricula": "004",
-      "Nome": "Ana",
-      "Idade": 21
+      "matricula": "45678",
+      "id": 4,
+      "nome": "Ana",
+      "idade": 21
     },
     {
-      "Matricula": "005",
-      "Nome": "Carlos",
-      "Idade": 23
+      "matricula": "11111",
+      "id": 5,
+      "nome": "Carlos",
+      "idade": 23
     },
     {
-      "Matricula": "006",
-      "Nome": "Mariana",
-      "Idade": 20
+      "matricula": "88888",
+      "id": 6,
+      "nome": "Mariana",
+      "idade": 20
     },
     {
-      "Matricula": "007",
-      "Nome": "Rafael",
-      "Idade": 22
+      "matricula": "22222",
+      "id": 7,
+      "nome": "Rafael",
+      "idade": 22
     },
     {
-      "Matricula": "008",
-      "Nome": "Sofia",
-      "Idade": 19
+      "matricula": "33333",
+      "id": 8,
+      "nome": "Sofia",
+      "idade": 19
     },
     {
-      "Matricula": "009",
-      "Nome": "Lucas",
-      "Idade": 21
+      "matricula": "77777",
+      "id": 9,
+      "nome": "Lucas",
+      "idade": 21
     },
     {
-      "Matricula": "010",
-      "Nome": "Julia",
-      "Idade": 22
+      "matricula": "55555",
+      "id": 10,
+      "nome": "Julia",
+      "idade": 22
     }
   ]
 }
